@@ -1,5 +1,7 @@
 # ParkourNShoot (WIP) - Alpha 0.0.2
 
+### WARNING : THIS BUILD OF THE GAME DOES NOT HAVE A MENU WITH AUDIO CONTROLS SO PLEASE LOWER YOUR VOLUME TO NOT BE EAR BLASTED. YOU HAVE BEEN WARNED
+
 This is an Unreal Engine 4 powered game
 
 This game is under intensive game development and iterations of versions may not represent the final product.

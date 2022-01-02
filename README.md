@@ -1,6 +1,6 @@
-# ParkourNShoot (WIP)
+# ParkourNShoot (WIP) - Alpha 0.0.2
 
-###This is an Unreal Engine 4 powered game
+This is an Unreal Engine 4 powered game
 
 This game is under intensive game development and iterations of versions may not represent the final product.
 
